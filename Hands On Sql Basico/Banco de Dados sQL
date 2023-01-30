@@ -1,0 +1,12 @@
+# Master 
+- Banco de dados Princial do Sql Server
+- Todas informacoes da instacias do sql server
+
+# Model
+- Banco criado como exemplo para novo banco de dados 
+
+# MsDb
+- Agendamento de banco de backups
+
+# tempDb
+- Informacoes temporarias 
