@@ -1,0 +1,9 @@
+# Link Consulta 
+https://learn.microsoft.com/pt-br/sql/linux/quickstart-install-connect-docker?view=sql-server-ver16&pivots=cs1-bash
+
+
+# Comando 
+docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=@Ralms123" -p 14033:1433 --name sql1 -d mcr.microsoft.com/mssql/server:2019-latest
+
+# Verificando a instalacao 
+docker ps -a
