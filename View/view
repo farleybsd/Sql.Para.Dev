@@ -1,0 +1,11 @@
+# View 
+- Tabela Virtual
+
+# View Materializada 
+- Armazena as informacoes em uma tabelas Fisicas
+- Quando os dados sao alterados nas tabelas fisicas eles sao atualizados na view Materializada
+- Ultiliza mais storage mais porem tem mais performace
+
+# View nao Materializada
+- Compoen dos dados no momento da requisicao Olha para a consulta que a compoem  e devolve para o solicitante 
+- 

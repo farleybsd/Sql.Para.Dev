@@ -1,0 +1,12 @@
+# Procedure
+- De forma basica uma Stored Procedure basicamente e um bloco de comandos ou instrucoes Sql de forma organizada para esxecultar 
+uma ou varias tarefas,no Sql Server usamos o Tsql para criar Sotored Procedure
+
+# Vantagens 
+- Compartilhar
+- Menos Complexibidade na aplicacao
+- Seguranca
+
+# Desvantagem 
+- Alta depedencia do banco de dados
+

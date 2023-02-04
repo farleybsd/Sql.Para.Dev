@@ -1,0 +1,10 @@
+# Functions 
+-  Sao rotinas esritas por alguem que retornam algum valor ou ate mesmo a estrutura de uma tabela , sao conhecidass
+tambem como UDF
+
+# Tipos de Funcoes 
+- Escalares : - Retornam um unico valor
+- Tabled-Valued :  Retornam um conjunto de resultados.
+
+# Procedure X Functions 
+- Procedure nao compoem estrucao de Select
